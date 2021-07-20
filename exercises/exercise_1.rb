@@ -12,4 +12,4 @@ Store.create(name: "Richmond", annual_revenue: 1260000, mens_apparel: false,wome
 
 Store.create(name: "Gastown", annual_revenue: 300000, mens_apparel:true,womens_apparel: false)
 
-puts Store.count;
+puts "EEEEEEEEEE"
